@@ -1,8 +1,8 @@
 ![Banner](https://www.upload.ee/image/17120069/idk.png)
 
-# CloudShad - Secure Cloud Storage
+# CloudShad - Cloud Storage
 
-CloudShad is a secure cloud storage designed to protect your data with cutting-edge technology while providing easy access and sharing capabilities. This project uses SvelteKit for the frontend and PocketBase for the backend.
+CloudShad is a cloud storage designed to protect your data with cutting-edge technology while providing easy access and sharing capabilities. This project uses SvelteKit for the frontend and PocketBase for the backend.
 
 ## Features
 
